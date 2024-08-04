@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input{
+    padding: 10px;
+    width: 25rem;
+    border-radius: 20px;
+}
+
+.bg{
+    background-color:#faa3fa;
+}
