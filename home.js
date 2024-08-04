@@ -41,7 +41,7 @@ getData();
 function renderTodo() {
     ul.innerHTML = "";
     if (arr.length === 0) {
-        ul.innerHTML = "no data found";
+        ul.innerHTML = "Bhai Kuch Likh Le...🙄 ";
         return;
     }
     arr.forEach((item) => {
